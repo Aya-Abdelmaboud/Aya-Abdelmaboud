@@ -34,3 +34,11 @@ A React application using the DummyJSON API to display, search, and explore prod
 #### Search-as-you-type
 
 A JavaScript project focused on debouncing, API requests, AbortController, and managing repeated search requests.
+
+#### Currently Learning
+
+* Advanced React
+* TypeScript
+* Frontend Architecture
+* Building larger and more maintainable applications
+
