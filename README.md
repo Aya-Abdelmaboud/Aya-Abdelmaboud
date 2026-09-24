@@ -16,3 +16,21 @@ I enjoy learning by building real projects, solving problems, and continuously i
 * REST APIs
 * Git
 * GitHub
+
+### Featured Projects
+
+# Movie Search App
+
+A React application using the OMDb API to search for movies, with loading and error states, search history using localStorage, and a responsive UI.
+
+## Task Manager
+
+A React task management application featuring CRUD operations, filtering, controlled forms, and component communication.
+
+### Product Explorer
+
+A React application using the DummyJSON API to display, search, and explore products.
+
+#### Search-as-you-type
+
+A JavaScript project focused on debouncing, API requests, AbortController, and managing repeated search requests.
